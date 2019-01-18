@@ -54,5 +54,5 @@ A list of all public EEG-datasets
   21. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
   22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
   23. http://studycatalog.org/
-  24. 
+  24. http://predict.cs.unm.edu/
   
