@@ -56,6 +56,7 @@ A list of all public EEG-datasets
   23. http://studycatalog.org/
   24. http://predict.cs.unm.edu/
   25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
+  26. https://github.com/DDTBOX/DDTBOX/wiki/MVPA-Datasets / https://osf.io/bndjg/
   
   
   
